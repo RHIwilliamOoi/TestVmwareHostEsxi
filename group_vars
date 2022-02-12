@@ -1,0 +1,7 @@
+|-- group_vars
+|   |-- dcs.yml
+|   |-- linux.yml
+|   |-- oneoff.yml
+|   |-- vmware.yml
+|   |-- winservers.yml
+|   `-- workstations.yml
