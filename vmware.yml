@@ -1,5 +1,0 @@
----
-
-  - hosts: RHIvmwareHost
-    roles:
-      - vmware
